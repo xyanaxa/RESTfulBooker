@@ -6,9 +6,7 @@ Project URL - https://restful-booker.herokuapp.com/apidoc/index.html
 The RESTful Booker API is a hotel reservation system that allows users to interact with different endpoints to create, retrieve, update, and delete bookings. The project will include a wide range of test scenarios, including positive and negative test cases, to cover all aspects of the RESTful Booker API
 
 ## What to test?
-The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth / Cookie Bases Auth. 
+The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth. 
 
-- Integration Testing
-- Functional Testing
-- Security Testing
-- Performance Testing
+- [Postman Collection](https://www.postman.com/telecoms-geoscientist-59049196/workspace/portfolio/collection/29275610-2ac08bd2-a242-4b47-8a88-46394a8c5faf?action=share&creator=29275610)
+- [Test Cases]
