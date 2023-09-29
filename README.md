@@ -8,5 +8,5 @@ The RESTful Booker API is a hotel reservation system that allows users to intera
 ## What to test?
 The CRUD operation for GET, POST, PUT, PATCH, DELETE with Basic Auth. 
 
-- [Postman Collection](https://www.postman.com/telecoms-geoscientist-59049196/workspace/portfolio/collection/29275610-2ac08bd2-a242-4b47-8a88-46394a8c5faf?action=share&creator=29275610)
-- [Test Cases]
+- [Postman Collection](https://documenter.getpostman.com/view/29275610/2s9YJaXP9j)
+- [Test Cases]()
